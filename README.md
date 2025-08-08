@@ -17,8 +17,8 @@
 ```bash
 bootcamp/
 ├── 📁 pruebas                   # Ejemplos y pruebas de código PHP y HTML
-│   ├── pruebaHTML/
-│   ├── pruebaPHP/
+│   ├── pruebaHTML
+│   ├── pruebaPHP
 │   └── ...
 │
 ├── 📁 ejercicios/               # Ejercicios organizados por día
