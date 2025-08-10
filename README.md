@@ -60,4 +60,4 @@ bootcamp/
 
 ---
 
-📌 *Este repositorio forma parte de las actividades de preparación para la Hackathon Occidente, fomentando el aprendizaje práctico y el desarrollo de proyectos reales.*
+📌 *Este repositorio forma parte de las actividades de preparación para el Hackathon Occidente, fomentando el aprendizaje práctico y el desarrollo de proyectos reales.*
